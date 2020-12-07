@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UnitTestWithMockk</string>
+    <string name="main_text">The main purpose of this project is to demo how Mockk works. Please open the project in your IDE and run the unit tests</string>
 </resources>
